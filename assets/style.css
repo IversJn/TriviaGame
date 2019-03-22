@@ -1,0 +1,27 @@
+.jumbotron{
+    background-image: url(images/marvel.jpg);
+    color: orangered;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    text-decoration: overline underline;
+    font-size: 400%;
+    background-size: cover; 
+    text-align: center;
+}
+
+
+.startWrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+
+.wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#time{
+    font-size: 50px;
+}
